@@ -4,7 +4,7 @@
 
 <br>
 
-**Python • C++ • Web Development • Cybersecurity Projects**
+**ASMITH•PRABHAV**
 
 [Portfolio](https://github.com/asmithprabhav-commits/my-portfolio) · [Repositories](https://github.com/asmithprabhav-commits?tab=repositories)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## `whoami`
+## `Hellothere`
 
 I like turning ideas into practical projects and exploring how software can help solve problems. My projects include Python tools, web development, and hands-on work with cybersecurity concepts.
 
