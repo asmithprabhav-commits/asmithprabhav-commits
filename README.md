@@ -47,12 +47,7 @@ I like turning ideas into practical projects and exploring how software can help
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asmithprabhav-commits&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmithprabhav-commits&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmithprabhav-commits&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph">
+![GitHub contribution graph](https://ghchart.rshah.org/409ba5/asmithprabhav-commits)
 
 </div>
 
