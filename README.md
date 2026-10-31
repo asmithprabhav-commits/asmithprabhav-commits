@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm asmii 👋
 
-<!--
-**asmithprabhav-commits/asmithprabhav-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python • C++ • Web Development • Cybersecurity Projects
 
-Here are some ideas to get you started:
+I build practical projects across software development and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Working with Python and C++
+- 🌐 Creating web projects and useful tools
+- 🔐 Building projects that explore security concepts
+- 📌 Browse my [repositories](https://github.com/asmithprabhav-commits?tab=repositories)
+
+---
+
+## 🧰 Toolbox
+
+`Python` · `C++` · `HTML`
+
+---
+
+## 🔐 Security Projects
+
+| Project | What it does |
+|---|---|
+| [Brute Force Detector](https://github.com/asmithprabhav-commits/brute-force-detector-basic-model) | A basic model for detecting brute force activity |
+| [Link Analyzer](https://github.com/asmithprabhav-commits/LINK-ANALYZER) | Analyzes links with a Python tool |
+
+---
+
+## 🚀 Other Projects
+
+| Project | What it does |
+|---|---|
+| [My Portfolio](https://github.com/asmithprabhav-commits/my-portfolio) | A personal portfolio website |
+| [Notification Reminder](https://github.com/asmithprabhav-commits/notification-reminder) | A desktop notification reminder built with Python |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmithprabhav-commits&show_icons=true&theme=transparent)
+
+---
+
+### Keep learning. Keep building. ✨
